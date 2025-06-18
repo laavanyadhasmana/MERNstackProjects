@@ -1,0 +1,14 @@
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
