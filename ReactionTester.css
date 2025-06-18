@@ -1,0 +1,15 @@
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
+/* to set the shape dimensions and other attributes */
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
